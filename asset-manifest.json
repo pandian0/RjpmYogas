@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Rjpmyoga/static/css/main.92674835.css",
-    "main.js": "/Rjpmyoga/static/js/main.fe7beded.js",
-    "static/js/787.88423263.chunk.js": "/Rjpmyoga/static/js/787.88423263.chunk.js",
-    "index.html": "/Rjpmyoga/index.html",
-    "static/media/Sky.Css": "/Rjpmyoga/static/media/Sky.17f0258c8a11cdebc07f.Css",
-    "main.92674835.css.map": "/Rjpmyoga/static/css/main.92674835.css.map",
-    "main.fe7beded.js.map": "/Rjpmyoga/static/js/main.fe7beded.js.map",
-    "787.88423263.chunk.js.map": "/Rjpmyoga/static/js/787.88423263.chunk.js.map"
+    "main.css": "/RjpmYogas/static/css/main.92674835.css",
+    "main.js": "/RjpmYogas/static/js/main.776fb7da.js",
+    "static/js/787.88423263.chunk.js": "/RjpmYogas/static/js/787.88423263.chunk.js",
+    "index.html": "/RjpmYogas/index.html",
+    "static/media/Sky.Css": "/RjpmYogas/static/media/Sky.17f0258c8a11cdebc07f.Css",
+    "main.92674835.css.map": "/RjpmYogas/static/css/main.92674835.css.map",
+    "main.776fb7da.js.map": "/RjpmYogas/static/js/main.776fb7da.js.map",
+    "787.88423263.chunk.js.map": "/RjpmYogas/static/js/787.88423263.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92674835.css",
-    "static/js/main.fe7beded.js"
+    "static/js/main.776fb7da.js"
   ]
 }

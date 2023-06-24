@@ -1,0 +1,12 @@
+@media screen and (max-width:700px) {
+    .parent{
+        flex-direction: column;
+        justify-content: center;
+    }
+    img{
+        width: 400px;
+    }
+    p{
+        width:900px;
+    }
+}

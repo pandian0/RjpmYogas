@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RjpmYogas/static/css/main.988cdaef.css",
-    "main.js": "/RjpmYogas/static/js/main.0c34344d.js",
+    "main.css": "/RjpmYogas/static/css/main.a592d3bd.css",
+    "main.js": "/RjpmYogas/static/js/main.2412fbe8.js",
     "static/js/787.88423263.chunk.js": "/RjpmYogas/static/js/787.88423263.chunk.js",
     "index.html": "/RjpmYogas/index.html",
-    "static/media/Sky.Css": "/RjpmYogas/static/media/Sky.f1f779a34a8365929330.Css",
-    "main.988cdaef.css.map": "/RjpmYogas/static/css/main.988cdaef.css.map",
-    "main.0c34344d.js.map": "/RjpmYogas/static/js/main.0c34344d.js.map",
+    "static/media/Sky.Css": "/RjpmYogas/static/media/Sky.6a60ac8856f71def804c.Css",
+    "main.a592d3bd.css.map": "/RjpmYogas/static/css/main.a592d3bd.css.map",
+    "main.2412fbe8.js.map": "/RjpmYogas/static/js/main.2412fbe8.js.map",
     "787.88423263.chunk.js.map": "/RjpmYogas/static/js/787.88423263.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.988cdaef.css",
-    "static/js/main.0c34344d.js"
+    "static/css/main.a592d3bd.css",
+    "static/js/main.2412fbe8.js"
   ]
 }

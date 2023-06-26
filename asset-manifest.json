@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RjpmYogas/static/css/main.a592d3bd.css",
-    "main.js": "/RjpmYogas/static/js/main.2412fbe8.js",
+    "main.css": "/RjpmYogas/static/css/main.c8527dec.css",
+    "main.js": "/RjpmYogas/static/js/main.9ef21e38.js",
     "static/js/787.88423263.chunk.js": "/RjpmYogas/static/js/787.88423263.chunk.js",
     "index.html": "/RjpmYogas/index.html",
     "static/media/Sky.Css": "/RjpmYogas/static/media/Sky.6a60ac8856f71def804c.Css",
-    "main.a592d3bd.css.map": "/RjpmYogas/static/css/main.a592d3bd.css.map",
-    "main.2412fbe8.js.map": "/RjpmYogas/static/js/main.2412fbe8.js.map",
+    "main.c8527dec.css.map": "/RjpmYogas/static/css/main.c8527dec.css.map",
+    "main.9ef21e38.js.map": "/RjpmYogas/static/js/main.9ef21e38.js.map",
     "787.88423263.chunk.js.map": "/RjpmYogas/static/js/787.88423263.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a592d3bd.css",
-    "static/js/main.2412fbe8.js"
+    "static/css/main.c8527dec.css",
+    "static/js/main.9ef21e38.js"
   ]
 }
